@@ -1,0 +1,6 @@
+@Bootcamp.CQRS_MediatR.API_HostAddress = http://localhost:5255
+
+GET {{Bootcamp.CQRS_MediatR.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
